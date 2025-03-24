@@ -36,38 +36,6 @@ const PopularHotel = () => {
   const popularHotelData = [
     {
       images: [
-        viyana,
-        Image1,
-        Image2,
-        Image3,
-        Image4,
-        Image5,
-        Image6,
-        Image7,
-        Image8,
-        Image9,
-        Image10,
-        Image6,
-        Image7,
-        Image8,
-        Image9,
-        Image10,
-      ],
-      title: "Viyana Blooms Comfort",
-      caption: "Near Holy Cross Chapel, Calangute, Goa",
-      star: 4.9,
-      price: "Rs 1500 Per Night(Min)",
-      link: null,
-      whatsapp: "8983065689", // Add WhatsApp number
-      phone: "8983065689", // Add phone number
-      touristsAttraction: [
-        "2.1km from Baga Beach",
-        "2.3km from Candolim Beach",
-        "8.8km from Chapora Fort",
-      ],
-    },
-    {
-      images: [
         bloomvilla,
         Image1bv,
         Image2bv,
